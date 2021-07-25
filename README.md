@@ -1,1 +1,1 @@
-# qbit-test-nodejs
+# qbit-test-nodejs by Dimas Bagus Susilo
